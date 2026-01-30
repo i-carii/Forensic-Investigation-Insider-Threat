@@ -16,17 +16,32 @@ This investigation was conducted to determine if an employee, John Smith, engage
 * **Case Setup:** Initiated a unique case file in Autopsy to ensure all gathered data was correctly identified under a unique ID.
 * **Directory Management:** Linked the case file to a secure directory (C:\Users\LabUser\Desktop\Evidence Files) for centralized access and maintenance.
 * **Documentation:** Recorded investigator details and a summary of the forensic exam justification to ensure legal and technical integrity.
+![alt](Screenshot%202025-03-27%20004150.png)
+![alt](Screenshot%202025-03-27%20004356.png)
+![alt](Screenshot%202025-03-27%20004558.png)
 
 ### 2. Data Ingestion & Analysis
 * **Source Selection:** Identified and authenticated the disk image as the primary evidence type for analysis.
 * **Ingest Modules:** Utilized default ingestion parameters to extract valuable information from the data source, including recent activity and file metadata.
 * **Keyword Search:** Conducted targeted searches for material implying malicious activity, specifically focusing on "bitcoin" and "anonymous transactions".
+![alt](Screenshot%202025-03-27%20004656.png)
+![alt](Screenshot%202025-03-27%20004717.png)
+![alt](Screenshot%202025-03-27%20005252.png)
+![alt](Screenshot%202025-03-27%20005318.png)
+![alt](Screenshot%202025-03-27%20005353.png)
 
 ### 3. Evidence Identification
 * **File Recovery:** Successfully retrieved data from multiple directories, including **deleted files** and hidden data artifacts.
 * **Artifact Discovery:** Analyzed directories to uncover:
-    * Research on "How to hide data in plain sight".
-    * Documentation on "Making untraceable bitcoin transactions".
+  * Research on "How to hide data in plain sight".
+  * Documentation on "Making untraceable bitcoin transactions".
+
+![alt](Screenshot%202025-03-27%20005705.png)
+![alt](Screenshot%202025-03-27%20005743.png)
+![alt](Screenshot%202025-03-27%20010300.png)
+![alt](Screenshot%202025-03-27%20010425.png)
+![alt](Screenshot%202025-03-27%20012925.png)
+![alt](Screenshot%202025-03-27%20013007.png)
 
 ---
 
